@@ -13,3 +13,17 @@
 #logo {
   border: 0.2px solid rgb(70, 137, 199);
 }
+
+.btn-facebook {
+  --bs-btn-bg: rgb(66, 103, 178);
+  --bs-btn-border-color: rgb(66, 103, 178);
+  --bs-btn-hover-bg: rgb(56, 88, 151);
+  font-size: 1.75rem;
+}
+
+.btn-instagram {
+  --bs-btn-bg: rgb(193, 53, 132);
+  --bs-btn-border-color: rgb(193, 53, 132);
+  --bs-btn-hover-bg: rgb(164, 45, 112);
+  font-size: 1.75rem;
+}
